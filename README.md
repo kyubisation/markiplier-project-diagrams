@@ -41,8 +41,11 @@
         FixItFromTheOutside2 --> SendMarkInAgain2
         SendMarkInAgain --> FixItFromTheOutside3
         SendMarkInAgain --> SendMarkInAgain2
+        WakeTheCrewMark2 --> FixItFromTheOutside3
+        WakeTheCrewMark2 --> WakeTheCrewMark3
         FixItFromTheOutside3 --> GoTowardsTheLight
         SendMarkInAgain2 --> GoTowardsTheLight
+        WakeTheCrewMark3 --> GoTowardsTheLight
 
         FixLifeSupport --> WakeTheCrew
         FixLifeSupport --> WearADisguise

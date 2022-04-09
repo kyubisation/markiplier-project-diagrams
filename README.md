@@ -138,7 +138,7 @@
         GiveMarkTheSignal --> UseTheDevice
         ThrowDownYourWeapons --> DontOpenTheDoor
         ThrowDownYourWeapons --> OpenTheDoor
-        CallForBackup --> [*]
+        CallForBackup2 --> [*]
         GuntherThinkOfTheColonists --> BurtThinkOfTheColonists
         GuntherThinkOfTheColonists --> BlowItUp2
         DontOpenTheDoor2 --> [*]

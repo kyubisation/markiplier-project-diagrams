@@ -41,7 +41,7 @@
         state "<a href='https://www.youtube.com/watch?v=iMz8rZD_9hg'>Don't Open the Door</a>" as DontOpenTheDoor
         state "<a href='https://www.youtube.com/watch?v=NW-UYcqwDpU'>Open the Door</a>" as OpenTheDoor
         state "<a href='https://www.youtube.com/watch?v=3De90tdLJmk'>Throw Down Your Weapons</a>" as ThrowDownYourWeapons
-        state "<a href='https://www.youtube.com/watch?v=aM-uQMUO6i4'>Give Mark "The Signal"</a>" as GiveMarkTheSignal
+        state "<a href='https://www.youtube.com/watch?v=aM-uQMUO6i4'>Give Mark <i>The Signal</i></a>" as GiveMarkTheSignal
         state "<a href='https://www.youtube.com/watch?v=cjGsjagqkk4'>Call For Backup</a>" as CallForBackup2
         state "<a href='https://www.youtube.com/watch?v=szDl_uKbOJg'>Gunther! Think of the Colonists!</a>" as GuntherThinkOfTheColonists
         state "<a href='https://www.youtube.com/watch?v=jGGT5FHDhFI'>Don't Open the Door</a>" as DontOpenTheDoor2
